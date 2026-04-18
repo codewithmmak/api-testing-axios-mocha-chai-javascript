@@ -11,12 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^8.0.2",
-    "axios": "^1.4.0",
-    "chai": "^4.3.7",
-    "mocha": "^10.2.0",
-    "mochawesome": "^7.1.3",
-    "properties-reader": "^2.2.0",
-    "rimraf": "^5.0.1"
+    "@faker-js/faker": "^10.4.0",
+    "axios": "^1.15.0",
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "mochawesome": "^7.1.4",
+    "npm-check-updates": "^21.0.2",
+    "properties-reader": "^3.0.1",
+    "rimraf": "^6.1.3"
+  },
+  "devDependencies": {
+    "claude-code-standards": "^2.0.6"
   }
 }
