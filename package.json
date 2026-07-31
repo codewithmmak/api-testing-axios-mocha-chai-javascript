@@ -15,7 +15,7 @@
     "axios": "^1.15.0",
     "chai": "^6.2.2",
     "mocha": "^11.7.5",
-    "mochawesome": "^7.1.4",
+    "mochawesome": "^8.0.0",
     "properties-reader": "^3.0.1",
     "rimraf": "^6.1.3"
   }
