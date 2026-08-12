@@ -1,0 +1,8 @@
+module.exports = {
+  reporter: 'mochawesome',
+  reportDir: 'mochawesome-report',
+  overwrite: true,
+  htmlReport: true,
+  jsonReport: true,
+  timestamp: 'YYYYMMDD_HHmmss'
+};
