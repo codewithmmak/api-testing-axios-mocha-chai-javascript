@@ -11,12 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@faker-js/faker": "^10.5.0",
-    "axios": "^1.19.0",
-    "chai": "^6.2.2",
-    "mocha": "^11.8.0",
-    "mochawesome": "^8.0.1",
+    "@faker-js/faker": "^10.6.0",
+    "axios": "^1.21.1",
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3",
+    "mochawesome": "^8.1.1",
     "properties-reader": "^3.0.1",
-    "rimraf": "^6.1.3"
+    "rimraf": "^6.1.4"
   }
 }
